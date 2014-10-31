@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2529286388">
+    <data-source source="LOCAL" name="Rails Hestia: development" uuid="efe409f6-609e-4b41-8cff-1af41268c0a0">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:HESTIA_DATABASE</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Hestia: test" uuid="d1cd247e-a460-4971-9919-e4b0e95629da">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:HESTIA_DATABASE</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails Hestia: production" uuid="745de568-c784-4804-bac1-b90b18a3e7a6">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:Hestia_production</jdbc-url>
+      <user-name>Hestia</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe2dfefdff9dffedfe3dfebdff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
